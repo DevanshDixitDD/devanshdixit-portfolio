@@ -90,7 +90,7 @@ export default function Navbar() {
                                         Resume
                                     </Button>
                                 </a>
-                                <a target="_blank" href="https://www.behance.net/">
+                                <a target="_blank" href="https://www.behance.net/devanshdixit4">
                                     <Button
                                         variant="primary"
                                         className="hidden md:inline-flex items-center"
