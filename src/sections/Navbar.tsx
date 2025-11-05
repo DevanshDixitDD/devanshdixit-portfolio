@@ -125,7 +125,7 @@ export default function Navbar() {
                                                 Resume
                                             </Button>
                                         </a>
-                                        <a href="https://www.behance.net/">
+                                        <a href="https://www.behance.net/devanshdixit4">
                                             <Button variant="primary">
                                                 Behance
                                             </Button>
