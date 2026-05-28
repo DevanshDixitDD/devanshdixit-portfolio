@@ -82,7 +82,7 @@ export default function Navbar() {
                                         )}
                                     ></line>
                                 </svg>
-                                <a target="_blank" href="https://drive.google.com/file/d/14OOjx0X8j1M6p1gAtqbqqC9smJmNW2G2/view">
+                                <a target="_blank" href="https://drive.google.com/file/d/1QtkhoUCieu4aeA__e5Hg6BK7jLZEyTtb/view?usp=sharing">
                                     <Button
                                         variant="secondary"
                                         className="hidden md:inline-flex items-center"
